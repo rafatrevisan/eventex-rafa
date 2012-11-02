@@ -1,4 +1,7 @@
 eventex-rafa
 ============
+An app requested by brunette.
 
-Project to Welcome to the Django
+This is a project designed for students of http://welcometothedjango.com.br/
+
+This app was implemented by rafatrevisan
